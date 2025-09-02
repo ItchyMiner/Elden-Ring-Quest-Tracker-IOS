@@ -2,4 +2,4 @@ Hello! This is my first IOS app. It is a Quest Tracker for Elden Ring. It is des
 quests you complete in the game easier, and it also serves as a way to get a bit of information on how to progress to the next stage
 of the quest without spoilers on a wiki. You will have to build it yourself in xcode, as I do not want to pay for an Apple Developer
 account. Regardless, I hope you enjoy, and find some utility in this app. If I get around to it I will make an andriod version of this
-app as well. 
+app as well. Some Screenshots are attached in the Display Screenshots folder, if you want to have a look at how the app looks in a simulator.
