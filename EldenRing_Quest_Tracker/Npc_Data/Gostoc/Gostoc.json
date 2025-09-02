@@ -1,0 +1,66 @@
+{
+    "name": "Gostoc",
+    "stagesAmount": 3,
+   
+    "stages":
+    [{
+        "Description": "Meet Gostoc on the left of the entrance to Stormveil Castle",
+        "Location": "TBD",
+       
+        "Boss_Requirements" : ["None"],
+        "Quest_Requirements" : ["None"],
+
+        "Boss_Lockouts": ["None"],
+        "Area_Lockouts": ["None"],
+        "Npc_Lockout": ["None"],
+        "Quest_Lockout": ["None"],
+        "Event_Lockout": ["None"],
+       
+        "Boss_Skip": ["None"],
+        "Area_Skip": ["None"],
+        "Npc_Skip": ["None"],
+        "Quest_Skip": ["None"],
+        "Event_Skip": ["None"]
+    },
+    {
+        "Description": "Either obtain the rusty key, defeat Godrick, or catch him stalking you to unlock him as a merchant",
+        "Location": "TBD",
+       
+        "Boss_Requirements" : ["None"],
+        "Quest_Requirements" : ["None"],
+
+        "Boss_Lockouts": ["None"],
+        "Area_Lockouts": ["None"],
+        "Npc_Lockout": ["None"],
+        "Quest_Lockout": ["None"],
+        "Event_Lockout": ["None"],
+       
+        "Boss_Skip": ["None"],
+        "Area_Skip": ["None"],
+        "Npc_Skip": ["None"],
+        "Quest_Skip": ["None"],
+        "Event_Skip": ["None"]
+    },
+    {
+        "Description": "If Nepheli Loux's questline is finished, talk to Gostoc in the throne room",
+        "Location": "TBD",
+       
+        "Boss_Requirements" : ["None"],
+        "Quest_Requirements" : ["None"],
+
+        "Boss_Lockouts": ["None"],
+        "Area_Lockouts": ["None"],
+        "Npc_Lockout": ["None"],
+        "Quest_Lockout": ["None"],
+        "Event_Lockout": ["None"],
+       
+        "Boss_Skip": ["None"],
+        "Area_Skip": ["None"],
+        "Npc_Skip": ["None"],
+        "Quest_Skip": ["None"],
+        "Event_Skip": ["None"]
+    }]
+
+     
+   
+}

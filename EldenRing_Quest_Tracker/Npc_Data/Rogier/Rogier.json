@@ -1,0 +1,199 @@
+{
+    "name": "Rogier",
+    "stagesAmount": 10,
+   
+    "stages":
+    [{
+        "Description": "Meet Rogier in Stormveil Castle",
+        "Location": "TBD",
+       
+        "Boss_Requirements" : ["None"],
+        "Quest_Requirements" : ["None"],
+
+        "Boss_Lockouts": ["None"],
+        "Area_Lockouts": ["None"],
+        "Npc_Lockout": ["None"],
+        "Quest_Lockout": ["None"],
+        "Event_Lockout": ["None"],
+       
+        "Boss_Skip": ["Godrick"],
+        "Area_Skip": ["None"],
+        "Npc_Skip": ["None"],
+        "Quest_Skip": ["None"],
+        "Event_Skip": ["None"]
+    },
+    {
+        "Description": "Defeat Godrick the Grafted",
+        "Location": "TBD",
+       
+        "Boss_Requirements" : ["None"],
+        "Quest_Requirements" : ["None"],
+
+        "Boss_Lockouts": ["None"],
+        "Area_Lockouts": ["None"],
+        "Npc_Lockout": ["None"],
+        "Quest_Lockout": ["None"],
+        "Event_Lockout": ["None"],
+       
+        "Boss_Skip": ["None"],
+        "Area_Skip": ["None"],
+        "Npc_Skip": ["None"],
+        "Quest_Skip": ["None"],
+        "Event_Skip": ["None"]
+    },
+    {
+        "Description": "Talk to Rogier in Roundtable Hold (Speaking to Ranni at the Three Sisters ends his quest)",
+        "Location": "TBD",
+       
+        "Boss_Requirements" : ["None"],
+        "Quest_Requirements" : ["None"],
+
+        "Boss_Lockouts": ["None"],
+        "Area_Lockouts": ["None"],
+        "Npc_Lockout": ["None"],
+        "Quest_Lockout": ["None"],
+        "Event_Lockout": ["None"],
+       
+        "Boss_Skip": ["None"],
+        "Area_Skip": ["None"],
+        "Npc_Skip": ["None"],
+        "Quest_Skip": ["None"],
+        "Event_Skip": ["None"]
+    },
+    {
+        "Description": "Find misshapen corpse under Stormveil Castle",
+        "Location": "TBD",
+       
+        "Boss_Requirements" : ["None"],
+        "Quest_Requirements" : ["None"],
+
+        "Boss_Lockouts": ["None"],
+        "Area_Lockouts": ["None"],
+        "Npc_Lockout": ["None"],
+        "Quest_Lockout": ["None"],
+        "Event_Lockout": ["None"],
+       
+        "Boss_Skip": ["None"],
+        "Area_Skip": ["None"],
+        "Npc_Skip": ["None"],
+        "Quest_Skip": ["None"],
+        "Event_Skip": ["None"]
+    },
+    {
+        "Description": "Ask Rogier about the Night of the Black Knives",
+        "Location": "TBD",
+       
+        "Boss_Requirements" : ["None"],
+        "Quest_Requirements" : ["None"],
+
+        "Boss_Lockouts": ["None"],
+        "Area_Lockouts": ["None"],
+        "Npc_Lockout": ["None"],
+        "Quest_Lockout": ["None"],
+        "Event_Lockout": ["None"],
+       
+        "Boss_Skip": ["None"],
+        "Area_Skip": ["None"],
+        "Npc_Skip": ["None"],
+        "Quest_Skip": ["None"],
+        "Event_Skip": ["None"]
+    },
+    {
+        "Description": "Talk to Fia in the Roundtable hold and get a Knifeprint Clue",
+        "Location": "TBD",
+       
+        "Boss_Requirements" : ["None"],
+        "Quest_Requirements" : ["None"],
+
+        "Boss_Lockouts": ["None"],
+        "Area_Lockouts": ["None"],
+        "Npc_Lockout": ["None"],
+        "Quest_Lockout": ["None"],
+        "Event_Lockout": ["None"],
+       
+        "Boss_Skip": ["None"],
+        "Area_Skip": ["None"],
+        "Npc_Skip": ["None"],
+        "Quest_Skip": ["None"],
+        "Event_Skip": ["None"]
+    },
+    {
+        "Description": "Find the Black Knifeprint in the Black Knife Catacombs",
+        "Location": "TBD",
+       
+        "Boss_Requirements" : ["None"],
+        "Quest_Requirements" : ["None"],
+
+        "Boss_Lockouts": ["None"],
+        "Area_Lockouts": ["None"],
+        "Npc_Lockout": ["None"],
+        "Quest_Lockout": ["None"],
+        "Event_Lockout": ["None"],
+       
+        "Boss_Skip": ["None"],
+        "Area_Skip": ["None"],
+        "Npc_Skip": ["None"],
+        "Quest_Skip": ["None"],
+        "Event_Skip": ["None"]
+    },
+    {
+        "Description": "Give Rogier the Black Knifeprint",
+        "Location": "TBD",
+       
+        "Boss_Requirements" : ["None"],
+        "Quest_Requirements" : ["None"],
+
+        "Boss_Lockouts": ["None"],
+        "Area_Lockouts": ["None"],
+        "Npc_Lockout": ["None"],
+        "Quest_Lockout": ["None"],
+        "Event_Lockout": ["None"],
+       
+        "Boss_Skip": ["None"],
+        "Area_Skip": ["None"],
+        "Npc_Skip": ["None"],
+        "Quest_Skip": ["None"],
+        "Event_Skip": ["None"]
+    },
+    {
+        "Description": "Talk to Ranni at the Three Sisters",
+        "Location": "TBD",
+       
+        "Boss_Requirements" : ["None"],
+        "Quest_Requirements" : ["None"],
+
+        "Boss_Lockouts": ["None"],
+        "Area_Lockouts": ["None"],
+        "Npc_Lockout": ["None"],
+        "Quest_Lockout": ["None"],
+        "Event_Lockout": ["None"],
+       
+        "Boss_Skip": ["None"],
+        "Area_Skip": ["None"],
+        "Npc_Skip": ["None"],
+        "Quest_Skip": ["None"],
+        "Event_Skip": ["None"]
+    },
+    {
+        "Description": "Talk to Rogier and reload roundtable hold a few times",
+        "Location": "TBD",
+       
+        "Boss_Requirements" : ["None"],
+        "Quest_Requirements" : ["None"],
+
+        "Boss_Lockouts": ["None"],
+        "Area_Lockouts": ["None"],
+        "Npc_Lockout": ["None"],
+        "Quest_Lockout": ["None"],
+        "Event_Lockout": ["None"],
+       
+        "Boss_Skip": ["None"],
+        "Area_Skip": ["None"],
+        "Npc_Skip": ["None"],
+        "Quest_Skip": ["None"],
+        "Event_Skip": ["None"]
+    }]
+
+     
+   
+}

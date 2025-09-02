@@ -1,0 +1,218 @@
+{
+    "name": "Hyetta",
+    "stagesAmount": 11,
+   
+    "stages":
+    [{
+        "Description": "Meet Hyetta near the Lake-Facing Cliffs site of grace (Must have talked to Irina in the Weeping Peninsula)",
+        "Location": "TBD",
+       
+        "Boss_Requirements" : ["None"],
+        "Quest_Requirements" : ["None"],
+
+        "Boss_Lockouts": ["None"],
+        "Area_Lockouts": ["None"],
+        "Npc_Lockout": ["Irina"],
+        "Quest_Lockout": ["None"],
+        "Event_Lockout": ["None"],
+       
+        "Boss_Skip": ["None"],
+        "Area_Skip": ["None"],
+        "Npc_Skip": ["None"],
+        "Quest_Skip": ["None"],
+        "Event_Skip": ["None"]
+    },
+    {
+        "Description": "Give Hyetta a Shabriri Grape",
+        "Location": "TBD",
+       
+        "Boss_Requirements" : ["None"],
+        "Quest_Requirements" : ["None"],
+
+        "Boss_Lockouts": ["None"],
+        "Area_Lockouts": ["None"],
+        "Npc_Lockout": ["None"],
+        "Quest_Lockout": ["None"],
+        "Event_Lockout": ["None"],
+       
+        "Boss_Skip": ["None"],
+        "Area_Skip": ["None"],
+        "Npc_Skip": ["None"],
+        "Quest_Skip": ["None"],
+        "Event_Skip": ["None"]
+    },
+    {
+        "Description": "Talk to Hyetta north of the Gate Town Bridge in Liurnia",
+        "Location": "TBD",
+       
+        "Boss_Requirements" : ["None"],
+        "Quest_Requirements" : ["None"],
+
+        "Boss_Lockouts": ["None"],
+        "Area_Lockouts": ["None"],
+        "Npc_Lockout": ["None"],
+        "Quest_Lockout": ["None"],
+        "Event_Lockout": ["None"],
+       
+        "Boss_Skip": ["None"],
+        "Area_Skip": ["None"],
+        "Npc_Skip": ["None"],
+        "Quest_Skip": ["None"],
+        "Event_Skip": ["None"]
+    },
+    {
+        "Description": "Give Hyetta a Shabriri Grape",
+        "Location": "TBD",
+       
+        "Boss_Requirements" : ["None"],
+        "Quest_Requirements" : ["None"],
+
+        "Boss_Lockouts": ["None"],
+        "Area_Lockouts": ["None"],
+        "Npc_Lockout": ["None"],
+        "Quest_Lockout": ["None"],
+        "Event_Lockout": ["None"],
+       
+        "Boss_Skip": ["None"],
+        "Area_Skip": ["None"],
+        "Npc_Skip": ["None"],
+        "Quest_Skip": ["None"],
+        "Event_Skip": ["None"]
+    },
+    {
+        "Description": "Talk to Hyetta near Bellum Church",
+        "Location": "TBD",
+       
+        "Boss_Requirements" : ["None"],
+        "Quest_Requirements" : ["None"],
+
+        "Boss_Lockouts": ["None"],
+        "Area_Lockouts": ["None"],
+        "Npc_Lockout": ["None"],
+        "Quest_Lockout": ["None"],
+        "Event_Lockout": ["None"],
+       
+        "Boss_Skip": ["None"],
+        "Area_Skip": ["None"],
+        "Npc_Skip": ["None"],
+        "Quest_Skip": ["None"],
+        "Event_Skip": ["None"]
+    },
+    {
+        "Description": "Defeat Festering Fingerprint Vyke",
+        "Location": "TBD",
+       
+        "Boss_Requirements" : ["None"],
+        "Quest_Requirements" : ["None"],
+
+        "Boss_Lockouts": ["None"],
+        "Area_Lockouts": ["None"],
+        "Npc_Lockout": ["None"],
+        "Quest_Lockout": ["None"],
+        "Event_Lockout": ["None"],
+       
+        "Boss_Skip": ["None"],
+        "Area_Skip": ["None"],
+        "Npc_Skip": ["None"],
+        "Quest_Skip": ["None"],
+        "Event_Skip": ["None"]
+    },
+    {
+        "Description": "Give Hyetta a Shabriri Grape",
+        "Location": "TBD",
+       
+        "Boss_Requirements" : ["None"],
+        "Quest_Requirements" : ["None"],
+
+        "Boss_Lockouts": ["None"],
+        "Area_Lockouts": ["None"],
+        "Npc_Lockout": ["None"],
+        "Quest_Lockout": ["None"],
+        "Event_Lockout": ["None"],
+       
+        "Boss_Skip": ["None"],
+        "Area_Skip": ["None"],
+        "Npc_Skip": ["None"],
+        "Quest_Skip": ["None"],
+        "Event_Skip": ["None"]
+    },
+    {
+        "Description": "Defeat Mogh, the Omen in the Subterranean Shunning-Grounds",
+        "Location": "TBD",
+       
+        "Boss_Requirements" : ["None"],
+        "Quest_Requirements" : ["None"],
+
+        "Boss_Lockouts": ["None"],
+        "Area_Lockouts": ["None"],
+        "Npc_Lockout": ["None"],
+        "Quest_Lockout": ["None"],
+        "Event_Lockout": ["None"],
+       
+        "Boss_Skip": ["None"],
+        "Area_Skip": ["None"],
+        "Npc_Skip": ["None"],
+        "Quest_Skip": ["None"],
+        "Event_Skip": ["None"]
+    },
+    {
+        "Description": "Talk to Hyetta at Frenzied Flame Proscription",
+        "Location": "TBD",
+       
+        "Boss_Requirements" : ["None"],
+        "Quest_Requirements" : ["None"],
+
+        "Boss_Lockouts": ["None"],
+        "Area_Lockouts": ["None"],
+        "Npc_Lockout": ["None"],
+        "Quest_Lockout": ["None"],
+        "Event_Lockout": ["None"],
+       
+        "Boss_Skip": ["None"],
+        "Area_Skip": ["None"],
+        "Npc_Skip": ["None"],
+        "Quest_Skip": ["None"],
+        "Event_Skip": ["None"]
+    },
+    {
+        "Description": "Remove all armor and interact with the door at Frenzied Flame Proscription",
+        "Location": "TBD",
+       
+        "Boss_Requirements" : ["None"],
+        "Quest_Requirements" : ["None"],
+
+        "Boss_Lockouts": ["None"],
+        "Area_Lockouts": ["None"],
+        "Npc_Lockout": ["None"],
+        "Quest_Lockout": ["None"],
+        "Event_Lockout": ["None"],
+       
+        "Boss_Skip": ["None"],
+        "Area_Skip": ["None"],
+        "Npc_Skip": ["None"],
+        "Quest_Skip": ["None"],
+        "Event_Skip": ["None"]
+    },
+    {
+        "Description": "Talk to Hyetta",
+        "Location": "TBD",
+       
+        "Boss_Requirements" : ["None"],
+        "Quest_Requirements" : ["None"],
+
+        "Boss_Lockouts": ["None"],
+        "Area_Lockouts": ["None"],
+        "Npc_Lockout": ["None"],
+        "Quest_Lockout": ["None"],
+        "Event_Lockout": ["None"],
+       
+        "Boss_Skip": ["None"],
+        "Area_Skip": ["None"],
+        "Npc_Skip": ["None"],
+        "Quest_Skip": ["None"],
+        "Event_Skip": ["None"]
+    }]
+
+     
+   
+}

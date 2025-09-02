@@ -1,0 +1,218 @@
+{
+    "name": "Seluvis",
+    "stagesAmount": 11,
+   
+    "stages":
+    [{
+        "Description": "After agreeing to serve Ranni, meet Seluvis",
+        "Location": "TBD",
+       
+        "Boss_Requirements" : ["None"],
+        "Quest_Requirements" : ["None"],
+
+        "Boss_Lockouts": ["None"],
+        "Area_Lockouts": ["None"],
+        "Npc_Lockout": ["None"],
+        "Quest_Lockout": ["None"],
+        "Event_Lockout": ["None"],
+       
+        "Boss_Skip": ["None"],
+        "Area_Skip": ["None"],
+        "Npc_Skip": ["None"],
+        "Quest_Skip": ["None"],
+        "Event_Skip": ["None"]
+    },
+    {
+        "Description": "Talk to him at Seluvis' Rise",
+        "Location": "TBD",
+       
+        "Boss_Requirements" : ["None"],
+        "Quest_Requirements" : ["None"],
+
+        "Boss_Lockouts": ["None"],
+        "Area_Lockouts": ["None"],
+        "Npc_Lockout": ["None"],
+        "Quest_Lockout": ["None"],
+        "Event_Lockout": ["None"],
+       
+        "Boss_Skip": ["None"],
+        "Area_Skip": ["None"],
+        "Npc_Skip": ["None"],
+        "Quest_Skip": ["None"],
+        "Event_Skip": ["None"]
+    },
+    {
+        "Description": "Receive Seluvis' Potion (If you've given Ranni the fingerslayer blade, he dies, and so his quest is locked out from here)",
+        "Location": "TBD",
+       
+        "Boss_Requirements" : ["None"],
+        "Quest_Requirements" : ["None"],
+
+        "Boss_Lockouts": ["None"],
+        "Area_Lockouts": ["None"],
+        "Npc_Lockout": ["None"],
+        "Quest_Lockout": ["None"],
+        "Event_Lockout": ["None"],
+       
+        "Boss_Skip": ["None"],
+        "Area_Skip": ["None"],
+        "Npc_Skip": ["None"],
+        "Quest_Skip": ["None"],
+        "Event_Skip": ["None"]
+    },
+    {
+        "Description": "Give Seluvis' potion to either Sir Gideon Ofnir, who will dispose of it, or to Nepheli Loux, for her to drink (it will end her quest)",
+        "Location": "TBD",
+       
+        "Boss_Requirements" : ["None"],
+        "Quest_Requirements" : ["None"],
+
+        "Boss_Lockouts": ["None"],
+        "Area_Lockouts": ["None"],
+        "Npc_Lockout": ["None"],
+        "Quest_Lockout": ["None"],
+        "Event_Lockout": ["None"],
+       
+        "Boss_Skip": ["None"],
+        "Area_Skip": ["None"],
+        "Npc_Skip": ["None"],
+        "Quest_Skip": ["None"],
+        "Event_Skip": ["None"]
+    },
+    {
+        "Description": "Find Seluvis' secret Puppet Room under the illusory floor in the Three Sisters ruins",
+        "Location": "TBD",
+       
+        "Boss_Requirements" : ["None"],
+        "Quest_Requirements" : ["None"],
+
+        "Boss_Lockouts": ["None"],
+        "Area_Lockouts": ["None"],
+        "Npc_Lockout": ["None"],
+        "Quest_Lockout": ["None"],
+        "Event_Lockout": ["None"],
+       
+        "Boss_Skip": ["None"],
+        "Area_Skip": ["None"],
+        "Npc_Skip": ["None"],
+        "Quest_Skip": ["None"],
+        "Event_Skip": ["None"]
+    },
+    {
+        "Description": "Talk to Seluvis",
+        "Location": "TBD",
+       
+        "Boss_Requirements" : ["None"],
+        "Quest_Requirements" : ["None"],
+
+        "Boss_Lockouts": ["None"],
+        "Area_Lockouts": ["None"],
+        "Npc_Lockout": ["None"],
+        "Quest_Lockout": ["None"],
+        "Event_Lockout": ["None"],
+       
+        "Boss_Skip": ["None"],
+        "Area_Skip": ["None"],
+        "Npc_Skip": ["None"],
+        "Quest_Skip": ["None"],
+        "Event_Skip": ["None"]
+    },
+    {
+        "Description": "Find 3 Starlight Shards",
+        "Location": "TBD",
+       
+        "Boss_Requirements" : ["None"],
+        "Quest_Requirements" : ["None"],
+
+        "Boss_Lockouts": ["None"],
+        "Area_Lockouts": ["None"],
+        "Npc_Lockout": ["None"],
+        "Quest_Lockout": ["None"],
+        "Event_Lockout": ["None"],
+       
+        "Boss_Skip": ["None"],
+        "Area_Skip": ["None"],
+        "Npc_Skip": ["None"],
+        "Quest_Skip": ["None"],
+        "Event_Skip": ["None"]
+    },
+    {
+        "Description": "Buy all of his sorceries and two of his puppets",
+        "Location": "TBD",
+       
+        "Boss_Requirements" : ["None"],
+        "Quest_Requirements" : ["None"],
+
+        "Boss_Lockouts": ["None"],
+        "Area_Lockouts": ["None"],
+        "Npc_Lockout": ["None"],
+        "Quest_Lockout": ["None"],
+        "Event_Lockout": ["None"],
+       
+        "Boss_Skip": ["None"],
+        "Area_Skip": ["None"],
+        "Npc_Skip": ["None"],
+        "Quest_Skip": ["None"],
+        "Event_Skip": ["None"]
+    },
+    {
+        "Description": "Talk to him about his plot",
+        "Location": "TBD",
+       
+        "Boss_Requirements" : ["None"],
+        "Quest_Requirements" : ["None"],
+
+        "Boss_Lockouts": ["None"],
+        "Area_Lockouts": ["None"],
+        "Npc_Lockout": ["None"],
+        "Quest_Lockout": ["None"],
+        "Event_Lockout": ["None"],
+       
+        "Boss_Skip": ["None"],
+        "Area_Skip": ["None"],
+        "Npc_Skip": ["None"],
+        "Quest_Skip": ["None"],
+        "Event_Skip": ["None"]
+    },
+    {
+        "Description": "Find an Amber Starlight",
+        "Location": "TBD",
+       
+        "Boss_Requirements" : ["None"],
+        "Quest_Requirements" : ["None"],
+
+        "Boss_Lockouts": ["None"],
+        "Area_Lockouts": ["None"],
+        "Npc_Lockout": ["None"],
+        "Quest_Lockout": ["None"],
+        "Event_Lockout": ["None"],
+       
+        "Boss_Skip": ["None"],
+        "Area_Skip": ["None"],
+        "Npc_Skip": ["None"],
+        "Quest_Skip": ["None"],
+        "Event_Skip": ["None"]
+    },
+    {
+        "Description": "Give Seluvis an Amber Starlight",
+        "Location": "TBD",
+       
+        "Boss_Requirements" : ["None"],
+        "Quest_Requirements" : ["None"],
+
+        "Boss_Lockouts": ["None"],
+        "Area_Lockouts": ["None"],
+        "Npc_Lockout": ["None"],
+        "Quest_Lockout": ["None"],
+        "Event_Lockout": ["None"],
+       
+        "Boss_Skip": ["None"],
+        "Area_Skip": ["None"],
+        "Npc_Skip": ["None"],
+        "Quest_Skip": ["None"],
+        "Event_Skip": ["None"]
+    }]
+
+     
+   
+}

@@ -1,0 +1,67 @@
+{
+    "name": "D, Beholder of Death",
+    "stagesAmount": 3,
+   
+    "stages":
+    [{
+        "Description": "Meet D, Beholder of Death in the Siofra Aqueduct",
+        "Location": "TBD",
+       
+        "Boss_Requirements" : ["None"],
+        "Quest_Requirements" : ["None"],
+
+        "Boss_Lockouts": ["None"],
+        "Area_Lockouts": ["None"],
+        "Npc_Lockout": ["None"],
+        "Quest_Lockout": ["None"],
+        "Event_Lockout": ["None"],
+       
+        "Boss_Skip": ["None"],
+        "Area_Skip": ["None"],
+        "Npc_Skip": ["None"],
+        "Quest_Skip": ["None"],
+        "Event_Skip": ["None"]
+    },
+    {
+        "Description": "Give D, Beholder of Death the Twinned Set looted from D, Hunter of the Dead's corpse",
+        "Location": "TBD",
+       
+        "Boss_Requirements" : ["None"],
+        "Quest_Requirements" : ["None"],
+
+        "Boss_Lockouts": ["None"],
+        "Area_Lockouts": ["None"],
+        "Npc_Lockout": ["None"],
+        "Quest_Lockout": ["None"],
+        "Event_Lockout": ["None"],
+       
+        "Boss_Skip": ["None"],
+        "Area_Skip": ["None"],
+        "Npc_Skip": ["None"],
+        "Quest_Skip": ["None"],
+        "Event_Skip": ["None"]
+    },
+    {
+        "Description": "After completing Fia's questline, talk to D, Beholder of Death at Fia's last location",
+        "Location": "TBD",
+       
+        "Boss_Requirements" : ["None"],
+        "Quest_Requirements" : ["None"],
+
+        "Boss_Lockouts": ["None"],
+        "Area_Lockouts": ["None"],
+        "Npc_Lockout": ["None"],
+        "Quest_Lockout": ["None"],
+        "Event_Lockout": ["None"],
+       
+        "Boss_Skip": ["None"],
+        "Area_Skip": ["None"],
+        "Npc_Skip": ["None"],
+        "Quest_Skip": ["None"],
+        "Event_Skip": ["None"]
+    }
+    ]
+
+     
+   
+}

@@ -1,0 +1,90 @@
+	
+{
+    "Areas_Explored":
+        [{
+            "Name": "Liurnia",
+            "Status": false
+        },
+        {
+            "Name": "Altus Plateau",
+            "Status": false
+        },
+        {
+            "Name": "Mt. Gelmir",
+            "Status": false
+        },
+        {
+            "Name": "Volcano Manor",
+            "Status": false
+        },
+        {
+            "Name": "Mountaintops of the Giants",
+            "Status": false
+        },
+        {
+            "Name": "Farum Azula",
+            "Status": false
+        }],
+   
+    "Bosses_Killed":
+        [{
+            "Name": "Radahn",
+            "Status": false
+        },
+        {
+            "Name": "Rykard",
+            "Status": false
+        },
+        {
+            "Name": "Maliketh",
+            "Status": false
+        },
+        {
+            "Name": "Royal Knight Loretta",
+            "Status": false
+        },
+        {
+            "Name": "Demi-Human Chief",
+            "Status": false
+        },
+        {
+            "Name": "Morgott",
+            "Status": false
+        },
+        {
+            "Name": "Fire Giant",
+            "Status": false
+        },
+        {
+            "Name": "Flying Dragon Agheel",
+            "Status": false
+        },
+        {
+            "Name": "Godrick",
+            "Status": false
+        }],
+
+    "Events_Happened":
+        [{
+            "Name": "Hailigtree Secret Medallion Both Pieces",
+            "Status": false
+        },
+        {
+            "Name": "Used Forge of the Giants",
+            "Status": false
+        },
+        {
+            "Name": "Spoke to Tanith at Volcano Manor",
+            "Status": false
+        }],
+
+    "Npcs_Killed":
+        [{
+            "Name": "Irina",
+            "Status": false
+        }],
+   
+    "Quests_Stages_Saved":
+        []
+           
+}
